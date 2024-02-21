@@ -1,11 +1,11 @@
 //stack memory alocations
 
-// let userEmail="abc@google.com"
-// let anotherEmail=userEmail;
-// console.log(userEmail);
-// console.log(anotherEmail);
-// anotherEmail="vij@gmail.com"
-// console.log(anotherEmail);
+let userEmail="abc@google.com"
+let anotherEmail=userEmail;
+console.log(userEmail);
+console.log(anotherEmail);
+anotherEmail="vij@gmail.com"
+console.log(anotherEmail);
 
 
 //refrences memomry (heap)
@@ -25,7 +25,7 @@
 
 
 //simple explantion using diagramns
-// https://excalidraw.com/#json=GNWoi1Ew3UnA2Owi9illO,1cUXbDDqfJP8pTh6uTYLLQ
+// https://excalidraw.com/#json=G94YAbMMTOmrhBnmxipOK,ONkOq493G2ORcCO97E1-6A
 
 // *******************************************|| String In detail ||*********************************************************
 
